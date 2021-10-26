@@ -24,5 +24,5 @@ A list of technologies used within the project:
 Design of how the whole system works
 
 
-![Image](https://www.canva.com/design/DAEt6TbxNyI/tk3O7ejWY-0h0yN6wFRMMw/view?utm_content=DAEt6TbxNyI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+[Image](https://www.canva.com/design/DAEt6TbxNyI/tk3O7ejWY-0h0yN6wFRMMw/view?utm_content=DAEt6TbxNyI&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
