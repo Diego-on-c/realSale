@@ -1,0 +1,126 @@
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/WSVenta.deps.json
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/WSVenta.runtimeconfig.json
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/WSVenta.runtimeconfig.dev.json
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/WSVenta.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/WSVenta.pdb
+/Users/diegocordoba/Projects/WSVenta/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.csproj.AssemblyReference.cache
+/Users/diegocordoba/Projects/WSVenta/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diegocordoba/Projects/WSVenta/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.AssemblyInfoInputs.cache
+/Users/diegocordoba/Projects/WSVenta/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.AssemblyInfo.cs
+/Users/diegocordoba/Projects/WSVenta/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.csproj.CoreCompileInputs.cache
+/Users/diegocordoba/Projects/WSVenta/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.MvcApplicationPartsAssemblyInfo.cache
+/Users/diegocordoba/Projects/WSVenta/WSVenta/obj/Debug/netcoreapp3.1/staticwebassets/WSVenta.StaticWebAssets.Manifest.cache
+/Users/diegocordoba/Projects/WSVenta/WSVenta/obj/Debug/netcoreapp3.1/staticwebassets/WSVenta.StaticWebAssets.xml
+/Users/diegocordoba/Projects/WSVenta/WSVenta/obj/Debug/netcoreapp3.1/scopedcss/bundle/WSVenta.styles.css
+/Users/diegocordoba/Projects/WSVenta/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.RazorTargetAssemblyInfo.cache
+/Users/diegocordoba/Projects/WSVenta/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.pdb
+/Users/diegocordoba/Projects/WSVenta/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.genruntimeconfig.cache
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/diegocordoba/Projects/WSVenta/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.csproj.CopyComplete
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/WSVenta.deps.json
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/WSVenta.runtimeconfig.json
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/WSVenta.runtimeconfig.dev.json
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/WSVenta.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/WSVenta.pdb
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Humanizer.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Logging.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Microsoft.IdentityModel.Tokens.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/System.Collections.Immutable.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/System.ComponentModel.Annotations.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/System.Configuration.ConfigurationManager.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/System.Diagnostics.DiagnosticSource.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/System.IdentityModel.Tokens.Jwt.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/System.Runtime.Caching.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/System.Security.Cryptography.ProtectedData.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.csproj.AssemblyReference.cache
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.AssemblyInfoInputs.cache
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.AssemblyInfo.cs
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.csproj.CoreCompileInputs.cache
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.MvcApplicationPartsAssemblyInfo.cache
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/obj/Debug/netcoreapp3.1/staticwebassets/WSVenta.StaticWebAssets.Manifest.cache
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/obj/Debug/netcoreapp3.1/staticwebassets/WSVenta.StaticWebAssets.xml
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/obj/Debug/netcoreapp3.1/scopedcss/bundle/WSVenta.styles.css
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.RazorTargetAssemblyInfo.cache
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.dll
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.pdb
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.genruntimeconfig.cache
+/Users/diegocordoba/Desktop/Proyectos personales/net/SistemaDeVentas/WSVenta/obj/Debug/netcoreapp3.1/WSVenta.csproj.CopyComplete
